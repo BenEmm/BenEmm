@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ben
-- 👀 I’m interested in Front End Web Development and more recently, COBOL for mainframe development... Two different worlds, I know.
+- 👀 I’m interested in Front End Web Development and currently study Computer Science.
 - 🌱 I’m currently learning HTML, JavaScript, CSS, COBOL, JCL
 
 <!---
