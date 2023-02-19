@@ -4,6 +4,7 @@
 - ✅ By the end of the year I hope to have developed:
     - My own e-commerce website through the development project for my degree.
     - A protfolio website as part of my Front End Web Development module.
+    - A minimalistic web application that allows a user to get the local weather forecast.
 
 <!---
 BenEmm/BenEmm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
