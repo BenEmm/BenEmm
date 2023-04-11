@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ben!
 - 👀 I’m interested in Front End Web Development and currently study Computer Science.
 - 🌱 I’m currently learning HTML, CSS, JavaScript & PHP.
-- 🌐 I recently created a browser addon, (Focus Search)[https://chrome.google.com/webstore/detail/search-bar-focus/obpjnhenhageebpgaaidbokphnniilji]
+- 🌐 I recently created a browser addon, [Focus Search](https://chrome.google.com/webstore/detail/search-bar-focus/obpjnhenhageebpgaaidbokphnniilji)
 - 🚀 By the end of the year I hope to have developed:
     - My own e-commerce website through the development project for my degree.  
     ✅ A protfolio website as part of my Front End Web Development module.  
