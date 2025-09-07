@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ben!
-- 👀 Computer Science gratuate interested in Front End Web Development and automating infrastructure deployment and management.
+- 👀 Computer Science gratuate interested in Front End Web Dev and automating infrastructure deployment and management.
 - 🌐 I recently created a browser addon, [Focus Search](https://chrome.google.com/webstore/detail/search-bar-focus/obpjnhenhageebpgaaidbokphnniilji).
 - 🚀 By the end of the year I hope to have developed:
    - ✅ My own e-commerce website through the development project for my degree.  
